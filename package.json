@@ -1,0 +1,21 @@
+{
+  "name": "calculatorpackage",
+  "version": "1.0.0",
+  "description": "For assesment",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^3.8.3",
+    "cypress-image-snapshot": "^3.1.1"
+  },
+  "devDependencies": {
+    "blink-diff": "^1.0.13",
+    "cypress-match-screenshot": "^1.1.0"
+  },
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "author": "Shahbaz Qaiser",
+  "license": "ISC"
+}

@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://www.online-calculator.com/full-screen-calculator",
+    "projectId": "az4btk",
+    "viewportWidth": 1000,
+    "viewportHeight": 660,
+    "chromeWebSecurity": false
+  }
